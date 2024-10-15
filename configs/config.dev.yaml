@@ -1,0 +1,4 @@
+server_address: ":8080"
+database_url: "postgres://root:root@localhost:5432/mydb?sslmode=disable"
+jwt_secret: "dev_secret"
+log_level: "debug"
